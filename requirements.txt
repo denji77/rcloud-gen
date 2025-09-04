@@ -1,0 +1,9 @@
+praw
+wordcloud
+matplotlib
+pillow
+requests
+numpy
+pandas
+bytez
+python-dotenv
